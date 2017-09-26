@@ -15,13 +15,13 @@ In particular, you will learn:
 
 When | In class | Homework | Blog 
 ---- | -------- | -------- | ----
-[Monday<br>04.10](sessions/01)| Welcome | Peer learning research: choose a topic to research and teach next week (teams of ~3) | What is the biggest challenge with teamwork? 
-[Monday<br>11.10](sessions/02)| <ul><li>Peer learning <li>TBA | TBA | TBA
-[Monday<br>18.10](sessions/03)| <ul><li>Peer learning <li>TBA | Prepare formative | TBA
-[Monday<br>25.10](sessions/04)| **Formative presentations** | TBA | TBA
-[Monday<br>01.11](sessions/05)| <ul><li>Peer learning <li>TBA | TBA | TBA
-[Monday<br>22.11](sessions/06)| <ul><li>Peer learning <li>TBA | TBA | TBA
-[Monday<br>06.12](sessions/07)| <ul><li>Peer learning <li>TBA | TBA | TBA 
+[Wednesday<br>04.10](sessions/01)| Welcome | Peer learning research: choose a topic to research and teach next week (teams of ~3) | What is the biggest challenge with teamwork? 
+[Wednesday<br>11.10](sessions/02)| <ul><li>Peer learning <li>TBA | TBA | TBA
+[Wednesday<br>18.10](sessions/03)| <ul><li>Peer learning <li>TBA | Prepare formative | TBA
+[Wednesday<br>25.10](sessions/04)| **Formative presentations** | TBA | TBA
+[Wednesday<br>01.11](sessions/05)| <ul><li>Peer learning <li>TBA | TBA | TBA
+[Wednesday<br>22.11](sessions/06)| <ul><li>Peer learning <li>TBA | TBA | TBA
+[Wednesday<br>06.12](sessions/07)| <ul><li>Peer learning <li>TBA | TBA | TBA 
 
 # Project
 
