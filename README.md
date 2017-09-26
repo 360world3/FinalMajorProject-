@@ -15,18 +15,36 @@ In particular, you will learn:
 
 When | In class | Homework | Blog 
 ---- | -------- | -------- | ----
-[Wednesday<br>04.10](sessions/01)| Welcome | Peer learning research: choose a topic to research and teach next week (teams of ~3) | What is the biggest challenge with teamwork? 
+[Wednesday<br>04.10](sessions/01)| Welcome & Discovery | Peer learning research: choose a topic to research and teach next week (teams of ~3) | What is the biggest challenge with teamwork? 
 [Wednesday<br>11.10](sessions/02)| <ul><li>Peer learning <li>TBA | TBA | TBA
 [Wednesday<br>18.10](sessions/03)| <ul><li>Peer learning <li>TBA | Prepare formative | TBA
 [Wednesday<br>25.10](sessions/04)| **Formative presentations** | TBA | TBA
 [Wednesday<br>01.11](sessions/05)| <ul><li>Peer learning <li>TBA | TBA | TBA
 [Wednesday<br>22.11](sessions/06)| <ul><li>Peer learning <li>TBA | TBA | TBA
-[Wednesday<br>06.12](sessions/07)| <ul><li>Peer learning <li>TBA | TBA | TBA 
+[Wednesday<br>06.12](sessions/07)| Formative assesment
 
 # Project
 
 ### Final Major Project 
 
+There are several ways to approach your final major project. 
+
+**You can:**
+
+* Create the foundations for a start-up for the future 
+* Produce a detailed business plan 
+* or create a product/project that sits within the web media skillet
+
+**The two main choices are therefore:**
+
+* Come up with a major Web Media project that you will lead, enlisting others from the course (and from outside the course if desired / necessary) as required. This can either be a detailed business plan, preferably with working prototype, or fully realised Web service.
+* Choose a role (or roles) you would like to perform (interactive designer, CSS designer, Javascript coder, social media manager etc) and execute that role for other students’ major projects and / or external clients. In this case, you will need to work extensively on a negotiated number of other projects.
+
+This brief will be negotiable, and live briefs – things you are working on in industry – could be permissible. But you have to pitch whatever you want to do to your Web Media tutors
+
+Alongside the project itself, you will create a way of presenting your work visually, coherently and professionally in a well-designed format. 
+
+* The Report is an assessment tool and follows side-by-side the project work to construct an explanatory and visual representation of the processes behind your final projects.
 
 
 # Learning Goals 
