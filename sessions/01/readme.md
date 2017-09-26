@@ -31,7 +31,10 @@
 
 # Workshop 
 
-<img src="https://media.giphy.com/media/kMM3vtBEgSsLu/giphy.gif" width="900">
+<img src="https://github.com/RavensbourneWebMedia/FinalMajorProject-/blob/2017/2018/assets%20/designkit.jpg" width="900">
+
+
+<img src="https://github.com/RavensbourneWebMedia/FinalMajorProject-/blob/2017/2018/assets%20/diytoolkit.jpg" width="900">
 
 
 ### Project plan
