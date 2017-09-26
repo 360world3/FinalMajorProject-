@@ -4,7 +4,10 @@
 
 1. [Welcome back](#welcome) :)
 2. [Goals for this session](#goals)
-
+3. [Examples from last year](#examples)
+4. [Workshop](#wokshop)
+5. [Project plan](#project-plan)
+ 
 ### Your [homework](#homework) and [blog](#blog)!
 
 # Welcome back 
@@ -19,6 +22,7 @@
 * A deep understanding of the brief
 * Start building an understanding of your project 
 * Be intoduced to helpful design tools 	
+* See examples from last year 
 
 ### Questions you should be able to answer at the end
 
@@ -27,7 +31,12 @@
 * What are the prelimenary ideas for my project? 
 * When is the formatives and summatives for this project? 
 
-# Workshop - What is the problem? 
+# Examples from last year 
+
+
+# Workshop - What is the design challenge? 
+
+Moodboards // Mindmaps 
 
 The first step in most project is discovery. This is the phase where you begin to map out the problem space and employ tools such as the five why's, how to frame your design challenge, problem definition and SWOT analysis amongst many more. 
 
@@ -47,12 +56,15 @@ The design tools mentioned above can be found on Disignkit and DIY Tools website
 Lets work our selves backwards! 
 
 
+**Trello!**
+
+Image of project plan 
 
 # Homework
 
 Question to thinks about whilst wathing and reading about the lean startup: 
 
-* How can this influence my work?
+* How can this approach influence my work?
 * What does pivot mean? 
 * How is vanity metrix different from measueable metrix? 
 
