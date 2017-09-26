@@ -29,7 +29,12 @@
 * What are the prelimenary ideas for my project? 
 * When is the formatives and summatives for this project? 
 
-# Workshop 
+# Workshop - What is the problem? 
+
+The first step in most project is discovery. This is the phase where you begin to map out the problem space and employ tools such as the five why's, how to frame your design challenge, problem definition and SWOT analysis amongst many more. 
+
+
+The design tools mentioned above can be found on Disignkit and DIY Tools website.
 
 <img src="https://github.com/RavensbourneWebMedia/FinalMajorProject-/blob/2017/2018/assets%20/designkit.jpg" width="900">
 
