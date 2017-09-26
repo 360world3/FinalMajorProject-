@@ -16,7 +16,7 @@ In particular, you will learn:
 When | In class | Homework | Blog 
 ---- | -------- | -------- | ----
 [Wednesday<br>04.10](sessions/01)| Welcome & Discovery | TBA | What is your design challenge? 
-[Wednesday<br>11.10](sessions/02)| TBA | TBA | TBA
+[Wednesday<br>11.10](sessions/02)| Steve Lloyd! Guest lecturer! | TBA | TBA
 [Wednesday<br>18.10](sessions/03)| TBA | TBA | TBA
 [Wednesday<br>25.10](sessions/04)| TBA | TBA | TBA
 [Wednesday<br>01.11](sessions/05)| TBA | TBA | TBA
