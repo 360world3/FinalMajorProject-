@@ -69,25 +69,24 @@ The design tools mentioned above can be found on Disignkit and DIY Tools website
 
 Lets work our selves backwards!
 
+### We all know Trello right?
 
-**Trello!**
-
-Image of project plan
+<img src="https://github.com/RavensbourneWebMedia/FinalMajorProject-/blob/2017/2018/assets%20/trello.png" width="900">
 
 # Homework
 
-Question to thinks about whilst wathing and reading about the lean startup:
+Question to think about whilst watching and reading about the Lean Startup:
 
 * How can this approach influence my work?
-* What does pivot mean?
-* How is vanity metrix different from measueable metrix?
+* When should you pivot?
+* How is 'vanity metrix' distinctive from 'measurable metrix'?
 
 Watch [this lecture by Eric Reis](https://m.youtube.com/watch?v=pFZmfqakuhE) on his methodology the lean start up
-Here is a [slide deck that](http://www.lse.ac.uk/assets/richmedia/channels/publicLecturesAndEvents/slides/20120112_1830_theLeanStartup_sl.pdf) covers the same: 
+Here is a [slide deck that](http://www.lse.ac.uk/assets/richmedia/channels/publicLecturesAndEvents/slides/20120112_1830_theLeanStartup_sl.pdf) covers the same:
 
 
 # Blog
 
-### What is your design challenge?
+### What is your preliminary design challenge?
 
 Start to use the design tools offered in this session to articulate your design challenge.
