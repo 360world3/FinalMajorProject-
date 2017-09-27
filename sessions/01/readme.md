@@ -21,7 +21,7 @@
 
 * A deep understanding of the brief
 * Start building an understanding of your project
-* Be intoduced to helpful design tools 	
+* Be introduced to helpful design thinking tools 	
 * See examples from last year
 
 ### Questions you should be able to answer at the end
@@ -33,12 +33,17 @@
 
 # Examples from last year
 
+http://musicdash.co
 <img src="https://github.com/RavensbourneWebMedia/FinalMajorProject-/blob/2017/2018/assets%20/musicdash.png" width="900">
 
+http://www.missdelacruz.com
 <img src="https://github.com/RavensbourneWebMedia/FinalMajorProject-/blob/2017/2018/assets%20/delacruz.png" width="900">
 
+
+http://curabites.com
 <img src="https://github.com/RavensbourneWebMedia/FinalMajorProject-/blob/2017/2018/assets%20/curabites.png" width="900">
 
+http://www.mind-thegap.net
 <img src="https://github.com/RavensbourneWebMedia/FinalMajorProject-/blob/2017/2018/assets%20/mindthegap.png" width="900">
 
 
@@ -77,8 +82,8 @@ Question to thinks about whilst wathing and reading about the lean startup:
 * What does pivot mean?
 * How is vanity metrix different from measueable metrix?
 
-Watch this lecture by Eric Reis on his methdeoligy the lean start up https://m.youtube.com/watch?v=pFZmfqakuhE
-Here is a slidedeck that covers the same: http://www.lse.ac.uk/assets/richmedia/channels/publicLecturesAndEvents/slides/20120112_1830_theLeanStartup_sl.pdf
+Watch [this lecture by Eric Reis](https://m.youtube.com/watch?v=pFZmfqakuhE) on his methodology the lean start up
+Here is a [slide deck that](http://www.lse.ac.uk/assets/richmedia/channels/publicLecturesAndEvents/slides/20120112_1830_theLeanStartup_sl.pdf) covers the same: 
 
 
 # Blog
