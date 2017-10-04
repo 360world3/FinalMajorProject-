@@ -59,13 +59,13 @@ http://www.mind-thegap.net
 
 # Workshop - What is your idea?
 
-### Excerice 1 - What am I good at?
+### Excersise 1 - What am I good at?
 
 <img src="https://github.com/RavensbourneWebMedia/FinalMajorProject-/blob/2017/2018/assets%20/goodat.png" width="900">
 
 **Use min 15min individually and then talk to your peers about it.**
 
-### Excerice 2 - Brainstorm
+### Excersise 2 - Brainstorm
 
 Create either a mindmap or moodboard to be presented in class.
 
@@ -75,7 +75,7 @@ Create either a mindmap or moodboard to be presented in class.
 
 The first step in most project is discovery. This is the phase where you begin to map out the problem space and employ tools such as the five why's, how to frame your design challenge, problem definition and SWOT analysis amongst many more.
 
-### Can you frame it as a design challenge? Or problem? 
+### Excersise 3 - Can you frame it as a design challenge? Or problem? 
 
 The design tools mentioned above can be found on [Disignkit](http://www.designkit.org/methods) and [DIY Tools](http://diytoolkit.org/tools/) website.
 
