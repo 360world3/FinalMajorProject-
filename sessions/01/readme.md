@@ -57,7 +57,7 @@ http://www.mind-thegap.net
 
 
 
-# Workshop - What is the design challenge?
+# Workshop - What is your idea?
 
 ### Excerice
 
@@ -81,11 +81,16 @@ The design tools mentioned above can be found on [Disignkit](http://www.designki
 
 **What is going to get done when?**
 
-Lets work our selves backwards!
+Work your selves backwards!
 
 ### We all know Trello right?
 
 <img src="https://github.com/RavensbourneWebMedia/FinalMajorProject-/blob/2017/2018/assets%20/trello.png" width="900">
+
+
+# Formative
+
+<img src="https://github.com/RavensbourneWebMedia/FinalMajorProject-/blob/2017/2018/assets%20/learning-plan.png" width="900">
 
 # Homework
 
