@@ -24,7 +24,7 @@ There are several ways to approach your final major project.
 
 * Create the foundations for a start-up for the future
 * Produce a detailed business plan
-* or create a product/project that sits within the web media skillet
+* or create a product/project that sits within the web media skillset
 
 **The two main choices are therefore:**
 
