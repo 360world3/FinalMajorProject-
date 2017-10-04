@@ -63,6 +63,8 @@ http://www.mind-thegap.net
 
 <img src="https://github.com/RavensbourneWebMedia/FinalMajorProject-/blob/2017/2018/assets%20/goodat.png" width="900">
 
+**Use min 15min individually and then talk to your peers about it.**
+
 ### Excerice 2 - Brainstorm
 
 Create either a mindmap or moodboard to be presented in class.
