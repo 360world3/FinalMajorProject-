@@ -36,9 +36,9 @@
 * 45 hours of workshops • Across terms 1, 2 and 3
 * 360 hours of independent work
 
-<img src="https://github.com/RavensbourneWebMedia/FinalMajorProject-/blob/2017/2018/assets%20/InnovationFunnel.png" width="900">
+<img src="https://github.com/RavensbourneWebMedia/FinalMajorProject-/blob/2017/2018/assets%20/InnovationFunnel.jpg" width="900">
 
-<img src="https://github.com/RavensbourneWebMedia/FinalMajorProject-/blob/2017/2018/assets%20/the-creative-process-dribbble.png" width="900">
+<img src="https://github.com/RavensbourneWebMedia/FinalMajorProject-/blob/2017/2018/assets%20/the-creative-process-dribbble.jpg" width="900">
 
 # Examples from last year
 
