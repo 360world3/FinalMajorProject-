@@ -75,6 +75,8 @@ Create either a mindmap or moodboard to be presented in class.
 
 The first step in most project is discovery. This is the phase where you begin to map out the problem space and employ tools such as the five why's, how to frame your design challenge, problem definition and SWOT analysis amongst many more.
 
+### Can you frame it as a design challenge? Or problem? 
+
 The design tools mentioned above can be found on [Disignkit](http://www.designkit.org/methods) and [DIY Tools](http://diytoolkit.org/tools/) website.
 
 <img src="https://github.com/RavensbourneWebMedia/FinalMajorProject-/blob/2017/2018/assets%20/designkit.jpg" width="900">
