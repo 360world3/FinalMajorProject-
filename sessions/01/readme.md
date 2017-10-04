@@ -5,7 +5,7 @@
 1. [Welcome back](#welcome) :)
 2. [Goals for this session](#goals)
 3. [Examples from last year](#examples)
-4. [Workshop](#wokshop)
+4. [Workshop](#workshop)
 5. [Project plan](#project-plan)
 
 ### Your [homework](#homework) and [blog](#blog)!
@@ -31,6 +31,11 @@
 * What are the prelimenary ideas for my project?
 * When is the formatives and summatives for this project?
 
+### The hours you should spend
+* 45 hours of lectures and tutorials • Across terms 1, 2 and 3
+* 45 hours of workshops • Across terms 1, 2 and 3
+* 360 hours of independent work
+
 # Examples from last year
 
 http://musicdash.co
@@ -50,12 +55,19 @@ http://www.mind-thegap.net
 
 # Workshop - What is the design challenge?
 
-Moodboards // Mindmaps
+### Excerice 1
+
+Create either a mindmap or moodboard to be presented in class.
+
+http://www.mind-thegap.net
+<img src="https://github.com/RavensbourneWebMedia/FinalMajorProject-/blob/2017/2018/assets%20/moodboard.jpg" width="900">
+
+http://www.mind-thegap.net
+<img src="https://github.com/RavensbourneWebMedia/FinalMajorProject-/blob/2017/2018/assets%20/mindmap.jpg" width="900">
 
 The first step in most project is discovery. This is the phase where you begin to map out the problem space and employ tools such as the five why's, how to frame your design challenge, problem definition and SWOT analysis amongst many more.
 
-
-The design tools mentioned above can be found on Disignkit and DIY Tools website.
+The design tools mentioned above can be found on [Disignkit](http://www.designkit.org/methods) and [DIY Tools](http://diytoolkit.org/tools/) website.
 
 <img src="https://github.com/RavensbourneWebMedia/FinalMajorProject-/blob/2017/2018/assets%20/designkit.jpg" width="900">
 
@@ -79,14 +91,17 @@ Question to think about whilst watching and reading about the Lean Startup:
 
 * How can this approach influence my work?
 * When should you pivot?
-* How is 'vanity metrix' distinctive from 'measurable metrix'?
+* How is 'vanity metrics' distinctive from 'measurable metrics'?
 
-Watch [this lecture by Eric Reis](https://m.youtube.com/watch?v=pFZmfqakuhE) on his methodology the lean start up
-Here is a [slide deck that](http://www.lse.ac.uk/assets/richmedia/channels/publicLecturesAndEvents/slides/20120112_1830_theLeanStartup_sl.pdf) covers the same:
-
+Watch [this lecture by Eric Reis](https://m.youtube.com/watch?v=pFZmfqakuhE) on his methodology the Lean Start up
+Here is a [slide deck that](http://www.lse.ac.uk/assets/richmedia/channels/publicLecturesAndEvents/slides/20120112_1830_theLeanStartup_sl.pdf) covers the same topic.
 
 # Blog
 
-### What is your preliminary design challenge?
+### What is the lean startup and how can I use it as a methodology for my project?
 
-Start to use the design tools offered in this session to articulate your design challenge.
+Other questions to keep in mind:
+
+* How can this approach influence my work?
+* When should you pivot?
+* How is 'vanity metrics' distinctive from 'measurable metrics'?
