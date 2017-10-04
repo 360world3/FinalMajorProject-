@@ -36,6 +36,10 @@
 * 45 hours of workshops • Across terms 1, 2 and 3
 * 360 hours of independent work
 
+<img src="https://github.com/RavensbourneWebMedia/FinalMajorProject-/blob/2017/2018/assets%20/InnovationFunnel.png" width="900">
+
+<img src="https://github.com/RavensbourneWebMedia/FinalMajorProject-/blob/2017/2018/assets%20/the-creative-process-dribbble.png" width="900">
+
 # Examples from last year
 
 http://musicdash.co
@@ -55,7 +59,7 @@ http://www.mind-thegap.net
 
 # Workshop - What is the design challenge?
 
-### Excerice 1
+### Excerice
 
 Create either a mindmap or moodboard to be presented in class.
 
@@ -73,7 +77,7 @@ The design tools mentioned above can be found on [Disignkit](http://www.designki
 <img src="https://github.com/RavensbourneWebMedia/FinalMajorProject-/blob/2017/2018/assets%20/diytoolkit.jpg" width="900">
 
 
-### Project plan
+# Project plan
 
 **What is going to get done when?**
 
