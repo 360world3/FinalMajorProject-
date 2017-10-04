@@ -59,7 +59,11 @@ http://www.mind-thegap.net
 
 # Workshop - What is your idea?
 
-### Excerice
+### Excerice 1 - What am I good at?
+
+<img src="https://github.com/RavensbourneWebMedia/FinalMajorProject-/blob/2017/2018/assets%20/goodat.png" width="900">
+
+### Excerice 2 - Brainstorm
 
 Create either a mindmap or moodboard to be presented in class.
 
