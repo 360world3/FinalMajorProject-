@@ -2,8 +2,10 @@
 
 ### Today, Wednesday 18th November 2017
 
-* Q&A
+* Goals
 * Workshop
+
+<img src="https://media.giphy.com/media/3o6oziEt5VUgsuunxS/giphy.gif" width="900">
 
 # Learning outcomes for this session
 
