@@ -5,6 +5,8 @@
 * Goals
 * Workshop
 
+### Your [homework](#homework) and [blog](#blog)!
+
 <img src="https://media.giphy.com/media/3o6oziEt5VUgsuunxS/giphy.gif" width="900">
 
 # Learning outcomes for this session
@@ -30,6 +32,9 @@
 * Where are you now with your project?
 * What is your methodology?
 
+### Timeline
+
+To stay on top of your work please make a timeline to show the rest of the class.
 
 # Homework
 
