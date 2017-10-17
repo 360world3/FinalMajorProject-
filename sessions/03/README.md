@@ -1,32 +1,39 @@
 # Week 3
 
-### Today, Monday 18th November 2017
+### Today, Wednesday 18th November 2017
 
-* Welcome
-* Peer-to-peer lecture
-* Lecture
+* Q&A
 * Workshop
 
-
-# Goals for this session
+# Learning goals for this session
 
 ### Goals
 
-*
+* Review your current research
+* Create a timeline
+* Get feedback on your project  
 
 ### Questions you should be able to answer at the end
 
-*
+* What is my problem or design challenge?
 
-# Peer-to-peer Lecture
+# Q&A
 
-
-# Lecture
+* What did you learn from the Lean Start-Up?
+* What did you learn from Steve?
+* Where are you now with your project?
+* What is your methodology?
 
 # Workshop
 
+* Get feedback on the current state of your work
 
 # Homework
 
+Create 3-5 ad-hoc personas that you will present next week.
 
 # Blog
+
+How can you use Theory of Change as a methodology for your project?
+
+Top tip: [Theory of Change](http://diytoolkit.org/tools/theory-of-change/)

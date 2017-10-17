@@ -8,7 +8,7 @@ When | In class | Homework | Blog
 ---- | -------- | -------- | ----
 [Wednesday<br>04.10](sessions/01)| Welcome & Discovery | Watch video on the Lean Startup | What is the lean startup and how can I use it as a methodology for my project?
 [Wednesday<br>11.10](sessions/02)| Steve Lloyd! Guest lecturer! | TBA | What is your prelimenary design challenge?
-[Wednesday<br>18.10](sessions/03)| TBA | TBA | TBA
+[Wednesday<br>18.10](sessions/03)| Workshop your project | Watch the videos on Theory of change  | How can you use Theory of Change as a methodology for your project?
 [Wednesday<br>25.10](sessions/04)| TBA | TBA | TBA
 [Wednesday<br>01.11](sessions/05)| TBA | TBA | TBA
 [Wednesday<br>22.11](sessions/06)| TBA | TBA | TBA
