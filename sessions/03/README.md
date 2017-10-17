@@ -5,7 +5,7 @@
 * Q&A
 * Workshop
 
-# Learning goals for this session
+# Learning outcomes for this session
 
 ### Goals
 
@@ -17,20 +17,21 @@
 
 * What is my problem or design challenge?
 
-# Q&A
+# Workshop
+
+* Get feedback on the current state of your work
+
+### Q&A
 
 * What did you learn from the Lean Start-Up?
 * What did you learn from Steve?
 * Where are you now with your project?
 * What is your methodology?
 
-# Workshop
-
-* Get feedback on the current state of your work
 
 # Homework
 
-Create 3-5 ad-hoc personas that you will present next week.
+Create 3-5 ad-hoc personas for your project that you will present next week.
 
 # Blog
 
