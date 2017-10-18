@@ -50,7 +50,7 @@ Find your market positioning, look at example bellow.
 
 * How?: How are you going to roll this out (make it happen?)
 
-### Questions you should be able to answer
+**More questions**
 
 * How will you stand out?
 
