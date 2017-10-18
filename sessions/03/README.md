@@ -66,6 +66,8 @@ To stay on top of your work please make a timeline to show the rest of the class
 
 Create 3-5 ad-hoc personas for your project that you will present next week.
 
+Bellow is an empathy mapping tool to help understand who your personas are!
+
 <img src="https://github.com/RavensbourneWebMedia/FinalMajorProject-/blob/2017/2018/assets%20/Empathy-Map-No-Stickies.png" width="700">
 
 # Blog
