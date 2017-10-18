@@ -36,6 +36,10 @@
 * Where are you now with your project?
 * What is your methodology?
 
+### Market reseash
+
+<img src="https://github.com/RavensbourneWebMedia/FinalMajorProject-/blob/2017/2018/assets%20/position_research.png" width="900">
+
 ### Timeline
 
 To stay on top of your work please make a timeline to show the rest of the class.
