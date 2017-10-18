@@ -25,6 +25,10 @@
 
 * Get feedback on the current state of your work
 
+<img src="https://github.com/RavensbourneWebMedia/FinalMajorProject-/blob/2017/2018/assets%20/fourorderdeisgn.jpg" width="900">
+
+**Who works these levels?**
+
 ### Q&A
 
 * What did you learn from the Lean Start-Up?
