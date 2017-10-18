@@ -58,9 +58,6 @@ Find your market positioning, look at example bellow.
 
 * How can you meet changing needs in the future?
 
-### Timeline
-
-To stay on top of your work please make a timeline to show the rest of the class.
 
 # Homework
 
