@@ -36,9 +36,9 @@
 * Where are you now with your project?
 * What is your methodology?
 
-### Market reseash
+### Market research
 
-<img src="https://github.com/RavensbourneWebMedia/FinalMajorProject-/blob/2017/2018/assets%20/position_research.png" width="900">
+<img src="https://github.com/RavensbourneWebMedia/FinalMajorProject-/blob/2017/2018/assets%20/position_research.png" width="700">
 
 ### Timeline
 
