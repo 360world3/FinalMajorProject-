@@ -38,7 +38,17 @@
 
 ### Market research
 
+Find your market positioning, look at example bellow.  
+
 <img src="https://github.com/RavensbourneWebMedia/FinalMajorProject-/blob/2017/2018/assets%20/position_research.png" width="700">
+
+### Defining your idea and business idea 
+
+Why? (The Issue): This is spotting the opportunity in the market, what are other companies NOT doing? Or what do clients want but are NOT getting?
+
+What you are doing?: What do you do differently?
+
+How?: How are you going to roll this out (make it happen?)
 
 ### Timeline
 
