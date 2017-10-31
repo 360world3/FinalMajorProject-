@@ -1,32 +1,5 @@
 # Week 4
 
-### Today, Monday 25th November 2017
+### Today, Wednesday 1st November 2017
 
-* Welcome
-* Peer-to-peer lecture
-* Lecture
-* Workshop
-
-
-# Goals for this session
-
-### Goals
-
-*
-
-### Questions you should be able to answer at the end
-
-*
-
-# Peer-to-peer Lecture
-
-
-# Lecture
-
-# Workshop
-
-
-# Homework
-
-
-# Blog
+Steve Lloyd!
