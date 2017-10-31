@@ -12,7 +12,7 @@ When | In class | Homework | Blog
 [Wednesday<br>25.10](sessions/04)| Steve Lloyd! Guest lecturer! | Reflect on your strength and weaknesses | What are your strength and weaknesses in relation to completing this project? And how are you going to address them? 
 [Wednesday<br>01.11](sessions/05)| TBA | TBA | TBA
 [Wednesday<br>22.11](sessions/06)| TBA | TBA | TBA
-[Wednesday<br>07.12](sessions/07)| Formative presentations
+[Thursday<br>07.12](sessions/07)| Formative presentations
 
 # Project
 
