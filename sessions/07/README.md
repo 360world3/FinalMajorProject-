@@ -2,8 +2,7 @@
 
 ### Today, Thursday 7th of November 2017
 
-* Tutorials
-* Go through checklist together to ensure everything is covered.
+* Presentations!
 
 # Checklist
 
