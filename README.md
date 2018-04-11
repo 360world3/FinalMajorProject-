@@ -2,7 +2,7 @@
 
 The Major Project is the primary portfolio work a student performs to showcase their talent for the world of employment. This is where you show the world what you can do – or even create the foundations of the startup company that you will build into a successful business after graduation. Students have the choice of either leading their own practical project OR producing a detailed business plan for a business start-up OR specializing in a particular skill area of Web Media.
 
-# Plan
+# Plan term 1
 
 When | In class | Homework | Blog
 ---- | -------- | -------- | ----
@@ -10,8 +10,19 @@ When | In class | Homework | Blog
 [Wednesday<br>11.10](sessions/02)| Steve Lloyd! Guest lecturer! | TBA | What is your prelimenary design challenge?
 [Wednesday<br>18.10](sessions/03)| Workshop your project | Create 3-5 ad-hoc personas | How can you use Theory of Change as a methodology for your project?
 [Wednesday<br>1.11](sessions/04)| Steve Lloyd! Guest lecturer! | Reflect on your strength and weaknesses | What are your strength and weaknesses in relation to completing this project? And how are you going to address them?
-[Wednesday<br>22.11](sessions/06)| Steve and Nick |  | 
+[Wednesday<br>22.11](sessions/06)| Steve and Nick |  |
 [Thursday<br>07.12](sessions/07)| Formative presentations
+
+# Plan term 3
+
+When | In class | Homework | Blog
+---- | -------- | -------- | ----
+[Wednesday<br>18.04](sessions/01)| Welcome | | Reflect and self-asses your final major project (300 words)
+[Wednesday<br>02.05](sessions/02)| Class workshop | | Collaborate with a peer and give feedback on their project (300 words)
+[Wednesday<br>09.05](sessions/03)| Class workshop | | Considering the feedback from your peer, what are your next (300 words) steps?  
+[Wednesday<br>16.05](sessions/04)| Class workshop | | How will you present your work at the degree show? (300 words)
+[Wednesday<br>23.05](sessions/05)| Tutorials | | What have you learnt about yourself from your final major project? (300 words)
+[Wednesday<br>30.05](sessions/06)| Summative presentation |
 
 # Project
 
