@@ -17,12 +17,12 @@ When | In class | Homework | Blog
 
 When | In class | Homework | Blog
 ---- | -------- | -------- | ----
-[Wednesday<br>18.04](sessions/01)| Welcome | | Reflect and self-asses your final major project (300 words)
-[Wednesday<br>02.05](sessions/02)| Class workshop | | Collaborate with a peer and give feedback on their project (300 words)
-[Wednesday<br>09.05](sessions/03)| Class workshop | | Considering the feedback from your peer, what are your next (300 words) steps?  
-[Wednesday<br>16.05](sessions/04)| Class workshop | | How will you present your work at the degree show? (300 words)
-[Wednesday<br>23.05](sessions/05)| Tutorials | | What have you learnt about yourself from your final major project? (300 words)
-[Wednesday<br>30.05](sessions/06)| Summative presentation |
+[Wednesday<br>18.04](sessions/08)| Welcome | | Reflect and self-asses your final major project (300 words)
+[Wednesday<br>02.05](sessions/09)| Class workshop | | Collaborate with a peer and give feedback on their project (300 words)
+[Wednesday<br>09.05](sessions/10)| Class workshop | | Considering the feedback from your peer, what are your next (300 words) steps?  
+[Wednesday<br>16.05](sessions/11)| Class workshop | | How will you present your work at the degree show? (300 words)
+[Wednesday<br>23.05](sessions/12)| Tutorials | | What have you learnt about yourself from your final major project? (300 words)
+[Wednesday<br>30.05](sessions/13)| Summative presentation |
 
 # Project
 
