@@ -12,10 +12,13 @@
 * What do you need help with developing?
 * What skills do you need?
 
-# Work on projects
+### Work on projects and analyse reports from previous years
 
 **Work on your projects**
 
+[Reports from last year](https://github.com/RavensbourneWebMedia/FinalMajorProject-/tree/2017/2018/sessions/09/assets/reports)
+
 # Blog
+
 
 **Collaborate with a peer and give feedback on their project (300 words)**
