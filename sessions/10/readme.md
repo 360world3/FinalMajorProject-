@@ -1,4 +1,4 @@
-# Week 2
+# Week 3
 
 ### Today, Wednesday 9th of May 2018
 
