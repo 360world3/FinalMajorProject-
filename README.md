@@ -1,29 +1,20 @@
-# Final Major Project 2017/2018
+# Final Major Project 2018/2019
 
-The Major Project is the primary portfolio work a student performs to showcase their talent for the world of employment. This is where you show the world what you can do – or even create the foundations of the startup company that you will build into a successful business after graduation. Students have the choice of either leading their own practical project OR producing a detailed business plan for a business start-up OR specializing in a particular skill area of Web Media.
+The Major Project is the primary portfolio work a student performs to showcase their talent for the world of employment. This is where you show the world what you can do – or even create the foundations of the startup company that you will build into a successful business after graduation.
+
+This is your moment to be innovative and disruptive.
+
 
 # Plan term 1
 
 When | In class | Homework | Blog
 ---- | -------- | -------- | ----
-[Wednesday<br>04.10](sessions/01)| Welcome & Discovery | Watch video on the Lean Startup | What is the lean startup and how can I use it as a methodology for my project?
-[Wednesday<br>11.10](sessions/02)| Steve Lloyd! Guest lecturer! | TBA | What is your prelimenary design challenge?
-[Wednesday<br>18.10](sessions/03)| Workshop your project | Create 3-5 ad-hoc personas | How can you use Theory of Change as a methodology for your project?
-[Wednesday<br>1.11](sessions/04)| Steve Lloyd! Guest lecturer! | Reflect on your strength and weaknesses | What are your strength and weaknesses in relation to completing this project? And how are you going to address them?
-[Wednesday<br>22.11](sessions/06)| Steve and Nick |  |
-[Thursday<br>07.12](sessions/07)| Formative presentations
-
-# Plan term 3
-
-When | In class | Homework | Blog
----- | -------- | -------- | ----
-[Wednesday<br>18.04](sessions/08)| Welcome | | Reflect and self-asses your final major project (300 words)
-[Wednesday<br>02.05](sessions/09)| Class workshop | | Collaborate with a peer and give feedback on their project (300 words)
-[Wednesday<br>09.05](sessions/10)| Class workshop | | Considering the feedback from your peer, what are your next (300 words) steps?  
-[Wednesday<br>16.05](sessions/11)| Class workshop & User testing | | How will you present your work at the degree show? (300 words)
-[Wednesday<br>23.05](sessions/12)| Tutorials | | What have you learnt about yourself from your final major project? (300 words)
-[Wednesday<br>30.05](sessions/13)| Class workshop |
-[Wednesday<br>14.06](sessions/14)| Summative presentation |
+[Wednesday<br>03.10](sessions/01)| Tor: Welcome & Discovery |  |
+[Wednesday<br>10.10](sessions/02)| Steve Lloyd |  |
+[Wednesday<br>17.10](sessions/03)| Tor | |
+[Wednesday<br>31.10](sessions/04)| Steve Lloyd | |
+[Wednesday<br>21.11](sessions/05)| Tor |  |
+[Thursday<br>05.12](sessions/06)| Tor and Steve Price: Formative presentations
 
 # Project
 
@@ -33,9 +24,9 @@ There are several ways to approach your final major project.
 
 **You can:**
 
-* Create the foundations for a start-up for the future
-* Produce a detailed business plan
-* or create a product/project that sits within the web media skillset
+* Producing a fully realised web based solution to a defined problem or opportunity with a strategy for marketing and monetization.
+* Producing a detailed business plan for a business start-up that will be accompanied by a detailed prototype and marketing strategy.
+
 
 **The two main choices are therefore:**
 
