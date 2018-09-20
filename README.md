@@ -14,7 +14,7 @@ When | In class | Homework | Blog
 [Wednesday<br>17.10](sessions/03)| Tor | |
 [Wednesday<br>31.10](sessions/04)| Steve Lloyd | |
 [Wednesday<br>21.11](sessions/05)| Tor |  |
-[Thursday<br>05.12](sessions/06)| Tor and Steve Price: Formative presentations
+[Wednesday<br>05.12](sessions/06)| Tor and Steve Price: Formative presentations
 
 # Project
 
@@ -27,19 +27,13 @@ There are several ways to approach your final major project.
 * Producing a fully realised web based solution to a defined problem or opportunity with a strategy for marketing and monetization.
 * Producing a detailed business plan for a business start-up that will be accompanied by a detailed prototype and marketing strategy.
 
+**At the summative you are expected to deliver:**
 
-**The two main choices are therefore:**
-
-* Come up with a major Web Media project that you will lead, enlisting others from the course (and from outside the course if desired / necessary) as required. This can either be a detailed business plan, preferably with working prototype, or fully realised Web service.
-
-* Choose a role (or roles) you would like to perform (interactive designer, CSS designer, Javascript coder, social media manager etc) and execute that role for other students’ major projects and / or external clients. In this case, you will need to work extensively on a negotiated number of other projects.
-
-This brief will be negotiable, and live briefs – things you are working on in industry – could be permissible. But you have to pitch whatever you want to do to your Web Media tutors
-
-Alongside the project itself, you will create a way of presenting your work visually, coherently and professionally in a well-designed format.
-
-* The Report is an assessment tool and follows side-by-side the project work to construct an explanatory and visual representation of the processes behind your final projects.
-
+* PART A: The Final Research Record Folder.
+* PART B: The Branding Booklet.
+* PART C: The Final Creative Output Delivery Folder.
+* PART D: A 10-minute presentation.
+* PART E: Your weekly blog posts from all 3 terms
 
 # Learning Goals
 
