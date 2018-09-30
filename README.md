@@ -9,10 +9,10 @@ This is your moment to be innovative and disruptive.
 
 When | In class | Homework | Blog
 ---- | -------- | -------- | ----
-[Wednesday<br>03.10](sessions/01)| Tor: Welcome & Discovery | Create a detailed work plan for term 1 | What are some of the current trends and approaches with technology that might assist you with your project?
-[Wednesday<br>10.10](sessions/02)| Steve Lloyd | Customer Discovery Interviews |
-[Wednesday<br>17.10](sessions/03)| Tor | Concept 1-pager | What is your problem?
-[Wednesday<br>31.10](sessions/04)| Steve Lloyd | User Personas |
+[Wednesday<br>03.10](sessions/01)| Tor: Welcome & Discovery | Create a timeline, with milestones and task list for your major project | Choose 3 of your *problems* to explore and critically explain the reasoning behind why you are highlighting those particular problems.  
+[Wednesday<br>10.10](sessions/02)| Steve Lloyd: User Personas | Explore your market | Choose 3 of your *ideas* and elaborate on why they are viable.
+[Wednesday<br>17.10](sessions/03)| Tor | User Personas | Who are the key players in your market?
+[Wednesday<br>31.10](sessions/04)| Steve Lloyd | Concept 1-pager |
 [Wednesday<br>21.11](sessions/05)| Tor | Paper Prototype |
 [Wednesday<br>05.12](sessions/06)| Tor and Steve Price: Formative presentations
 
