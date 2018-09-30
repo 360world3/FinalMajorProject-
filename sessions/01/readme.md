@@ -1,6 +1,6 @@
-# Week 1
+# Session 1
 
-### Today, Monday 2nd October 2017
+### Today, Wednesday 3nd October 2018
 
 Here is the [link to todays' presentation.](https://docs.google.com/presentation/d/1qez4cBDaHbiRGag-W0wQT_Xwt9vcOeo3GSNmZ7uM7r0/edit?usp=sharing)
 
