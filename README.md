@@ -28,6 +28,7 @@ There are several ways to approach your final major project.
 * Producing a detailed business plan for a business start-up that will be accompanied by a detailed prototype and marketing strategy.
 
 ## Important dates for submissions
+### Formative 1:
 **Wed, December 5th 2018**
 Formative 5-min pitch presentation & Research Record Folder
 Hand in by 16:00 via Moodle
