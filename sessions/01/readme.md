@@ -40,22 +40,11 @@
 
 <img src="https://github.com/RavensbourneWebMedia/FinalMajorProject-/blob/2017/2018/assets%20/the-creative-process-dribbble.jpg" width="900">
 
-# Examples from last year
 
-http://musicdash.co
-<img src="https://github.com/RavensbourneWebMedia/FinalMajorProject-/blob/2017/2018/assets%20/musicdash.png" width="900">
+* Lets visually break down each term and what needs to delivered when.
 
-http://www.missdelacruz.com
-<img src="https://github.com/RavensbourneWebMedia/FinalMajorProject-/blob/2017/2018/assets%20/delacruz.png" width="900">
-
-
-http://curabites.com
-<img src="https://github.com/RavensbourneWebMedia/FinalMajorProject-/blob/2017/2018/assets%20/curabites.png" width="900">
-
-http://www.mind-thegap.net
-<img src="https://github.com/RavensbourneWebMedia/FinalMajorProject-/blob/2017/2018/assets%20/mindthegap.png" width="900">
-
-
+<!-- A visual on the wall and also perhaps brainstorm what goes into creative output -->
+<!-- https://github.com/RavensbourneWebMedia/Web-development-workshop/tree/2016/projects/sharing-is-caring -->
 
 # Workshop - What is your idea?
 

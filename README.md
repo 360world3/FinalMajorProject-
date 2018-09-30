@@ -11,7 +11,7 @@ When | In class | Homework | Blog
 ---- | -------- | -------- | ----
 [Wednesday<br>03.10](sessions/01)| Tor: Welcome & Discovery |  |
 [Wednesday<br>10.10](sessions/02)| Steve Lloyd |  |
-[Wednesday<br>17.10](sessions/03)| Tor | |
+[Wednesday<br>17.10](sessions/03)| Tor | | Present your Problem Statement
 [Wednesday<br>31.10](sessions/04)| Steve Lloyd | |
 [Wednesday<br>21.11](sessions/05)| Tor |  |
 [Wednesday<br>05.12](sessions/06)| Tor and Steve Price: Formative presentations
@@ -27,13 +27,22 @@ There are several ways to approach your final major project.
 * Producing a fully realised web based solution to a defined problem or opportunity with a strategy for marketing and monetization.
 * Producing a detailed business plan for a business start-up that will be accompanied by a detailed prototype and marketing strategy.
 
-**At the summative you are expected to deliver:**
+## Important dates for submissions
+s
+**Wed, December 5th 2018**
+Formative 5-min pitch presentation & Research Record Folder
+Hand in by 16:00 via Moodle
 
-* PART A: The Final Research Record Folder.
-* PART B: The Branding Booklet.
-* PART C: The Final Creative Output Delivery Folder.
-* PART D: A 10-minute presentation.
-* PART E: Your weekly blog posts from all 3 terms
+**Wed, March 20th 2019**
+### Formative 2:
+Formative progress presentation & Research Record Folder & Creative delivery
+Hand in by 16:00 via Moodle
+
+**Thu, June 5th 2019**
+### Summative:
+Summative Presentation & Research Record Folder & Creative delivery & Branding Booklet
+Hand in by 16:00 via Moodle
+
 
 # Learning Goals
 
