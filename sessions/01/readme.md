@@ -30,15 +30,8 @@ Here is the [link to todays' presentation.](https://docs.google.com/presentation
 
 # Homework
 
-Question to think about whilst watching and reading about the Lean Startup:
-
-* How can this approach influence my work?
-* When should you pivot?
-* How is 'vanity metrics' distinctive from 'measurable metrics'?
-
-Watch [this lecture by Eric Reis](https://m.youtube.com/watch?v=pFZmfqakuhE) on his methodology the Lean Start up
-Here is a [slide deck that](http://www.lse.ac.uk/assets/richmedia/channels/publicLecturesAndEvents/slides/20120112_1830_theLeanStartup_sl.pdf) covers the same topic.
+* Create a timeline and work schedule for this term.
 
 # Blog
 
-### Create a timeline and work schedule for this term. 
+* What are some of the current trends and approaches with technology that might assist you with your project?

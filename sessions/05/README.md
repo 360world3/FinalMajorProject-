@@ -1,32 +1,3 @@
 # Week 5
 
-### Today, Monday 1st November 2017
-
-* Welcome
-* Peer-to-peer lecture
-* Lecture
-* Workshop
-
-
-# Goals for this session
-
-### Goals
-
-*
-
-### Questions you should be able to answer at the end
-
-*
-
-# Peer-to-peer Lecture
-
-
-# Lecture
-
-# Workshop
-
-
-# Homework
-
-
-# Blog
+### Today, Monday 21st November 2018
