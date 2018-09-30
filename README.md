@@ -9,7 +9,7 @@ This is your moment to be innovative and disruptive.
 
 When | In class | Homework | Blog
 ---- | -------- | -------- | ----
-[Wednesday<br>03.10](sessions/01)| Tor: Welcome & Discovery |  |
+[Wednesday<br>03.10](sessions/01)| Tor: Welcome & Discovery |  | Create a detailed plan for your term 1. 
 [Wednesday<br>10.10](sessions/02)| Steve Lloyd |  |
 [Wednesday<br>17.10](sessions/03)| Tor | | Present your Problem Statement
 [Wednesday<br>31.10](sessions/04)| Steve Lloyd | |
