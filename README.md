@@ -9,8 +9,8 @@ This is your moment to be innovative and disruptive.
 
 When | In class | Homework | Blog
 ---- | -------- | -------- | ----
-[Wednesday<br>03.10](sessions/01)| Tor: Welcome & Discovery | Create a timeline, with milestones and task list for your major project | Choose 3 of your *problems* to explore and critically explain the reasoning behind why you are highlighting those particular problems.  
-[Wednesday<br>10.10](sessions/02)| Steve Lloyd: User Personas | Explore your market | Choose 3 of your *ideas* and elaborate on why they are viable.
+[Wednesday<br>03.10](sessions/01)| **Workshop** <ul><li>Welcome & Discovery | Create a timeline, with milestones and task list for your major project | Choose 3 of your *problems* to explore and critically explain the reasoning behind why you are highlighting those particular problems.  
+[Wednesday<br>10.10](sessions/02)| <ul><li>User Personas <li>Present your timeline | Explore your market | Choose 3 of your *ideas* and elaborate on why they are viable.
 [Wednesday<br>17.10](sessions/03)| Tor | User Personas | Who are the key players in your market?
 [Wednesday<br>31.10](sessions/04)| Steve Lloyd | Concept 1-pager |
 [Wednesday<br>21.11](sessions/05)| Tor | Paper Prototype |
