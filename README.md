@@ -30,18 +30,18 @@ There are several ways to approach your final major project.
 ## Important dates for submissions
 ### Formative 1:
 **Wed, December 5th 2018**
-Formative 5-min pitch presentation & Research Record Folder
-Hand in by 16:00 via Moodle
+* Formative 5-min pitch presentation & Research Record Folder
+* Hand in by 16:00 via Moodle
 
 ### Formative 2:
 **Wed, March 20th 2019**
-Formative progress presentation & Research Record Folder & Creative delivery
-Hand in by 16:00 via Moodle
+* Formative progress presentation & Research Record Folder & Creative delivery
+* Hand in by 16:00 via Moodle
 
 ### Summative:
 **Thu, June 5th 2019**
-Summative Presentation & Research Record Folder & Creative delivery & Branding Booklet
-Hand in by 16:00 via Moodle
+* Summative Presentation & Research Record Folder & Creative delivery & Branding Booklet
+* Hand in by 16:00 via Moodle
 
 
 # Learning Goals
