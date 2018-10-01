@@ -30,8 +30,8 @@ Here is the [link to todays' presentation.](https://docs.google.com/presentation
 
 # Homework
 
-* Create a timeline and work schedule for this term.
+* Create a timeline, with milestones and task list for your major project
 
 # Blog
 
-* What are some of the current trends and approaches with technology that might assist you with your project?
+* Choose 3 of your *problems* to explore and critically explain the reasoning behind why you are highlighting those particular problems.
