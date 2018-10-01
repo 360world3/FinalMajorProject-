@@ -1,6 +1,6 @@
-# Session 1
+# Week 1
 
-### Today, Wednesday 3nd October 2018
+### Today, Monday 2nd October 2017
 
 Here is the [link to todays' presentation.](https://docs.google.com/presentation/d/1qez4cBDaHbiRGag-W0wQT_Xwt9vcOeo3GSNmZ7uM7r0/edit?usp=sharing)
 
@@ -30,8 +30,15 @@ Here is the [link to todays' presentation.](https://docs.google.com/presentation
 
 # Homework
 
-* Create a timeline, with milestones and task list for your major project
+Question to think about whilst watching and reading about the Lean Startup:
+
+* How can this approach influence my work?
+* When should you pivot?
+* How is 'vanity metrics' distinctive from 'measurable metrics'?
+
+Watch [this lecture by Eric Reis](https://m.youtube.com/watch?v=pFZmfqakuhE) on his methodology the Lean Start up
+Here is a [slide deck that](http://www.lse.ac.uk/assets/richmedia/channels/publicLecturesAndEvents/slides/20120112_1830_theLeanStartup_sl.pdf) covers the same topic.
 
 # Blog
 
-* Choose 3 of your *problems* to explore and critically explain the reasoning behind why you are highlighting those particular problems.
+### Create a timeline and work schedule for this term. 
