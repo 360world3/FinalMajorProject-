@@ -13,7 +13,7 @@ When | In class | Homework | Blog
 [Wednesday<br>10.10](sessions/02)| **Workshop** <ul><li>Ideation <li>User Personas <li>Competitor Analysis <li>*Present* your problem | <ul><li>Explore your market <li>User Personas | Choose 3 of your *ideas* and elaborate on why they are viable.
 [Wednesday<br>17.10](sessions/03)| **Workshop** <ul><li>*Present* your gap in the market <li>*Present* your ideas <li>*Present* your user personas | Concept 1-pager | Identify and critique 3 emerging technologies and their potential impact on society.
 [Wednesday<br>31.10](sessions/04)| **Workshop** <ul><li>*Present* your concept 1-pager |  Paper Prototype | tba
-[Wednesday<br>21.11](sessions/05)|  | | tba
+[Wednesday<br>21.11](sessions/05)| **Workshop** <ul><li>*Present* paper prototype | | tba
 [Wednesday<br>05.12](sessions/06)| Tor and Steve Price: Formative presentations
 
 # Project
