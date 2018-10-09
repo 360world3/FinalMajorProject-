@@ -12,8 +12,8 @@ When | In class | Homework | Blog
 [Wednesday<br>03.10](sessions/01)| **Workshop** <ul><li>Welcome & Discovery | Create a timeline, with milestones and task list for your major project | Choose 3 of your *problems* to explore and critically explain the reasoning behind why you are highlighting those particular problems.  
 [Wednesday<br>10.10](sessions/02)| **Presentation** <ul><li>*Present* your problems</ul> **Workshop** <ul><li>Ideation <li>User Personas <li>Competitor Analysis </ul> | <ul><li>Explore your market <li>User Personas | Choose 3 of your *ideas* and elaborate on why they are viable.
 [Wednesday<br>17.10](sessions/03)| **Presentation** <ul><li>*Present* your gap in the market <li>*Present* your ideas <li>*Present* your user personas </ul> **Workshop** <ul><li>User testing <li>Concept 1-pager <li>Paper prototype  | Test your prototypes with at least 5 different people from your specific target audience (not your friends and you should document this) | Identify and critique 3 emerging technologies and their potential impact on society.
-[Wednesday<br>31.10](sessions/04)| **Presentation** <ul><li>*Present* your user testing </ul> **Workshop** <ul><li>Design iteration |  tba | Evidence and critique your own approach to user testing. 
-[Wednesday<br>21.11](sessions/05)| **Workshop** <ul><li>tba | | Critically reflect over what has gone well this term and what could have gone better if.
+[Wednesday<br>31.10](sessions/04)| **Presentation** <ul><li>*Present* your user testing </ul> **Workshop** <ul><li>Design iteration | Document your design iterations | Evidence and critique your own approach to user testing.
+[Wednesday<br>21.11](sessions/05)| **Presentation** <ul><li>*Present* your design iterations </ul> **Workshop** <ul><li>Final touches before formative | | Critically reflect over what has gone well this term and what could have gone better if.
 [Wednesday<br>05.12](sessions/06)| Tor and Steve Price: Formative presentations
 
 # Project
