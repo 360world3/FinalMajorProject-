@@ -32,14 +32,14 @@ Add your presentation **links** to your [hand-in package](#hand-in-package).
 
 Add all your blog **links** to your [hand-in package](#hand-in-package).
 
-Your blog will have **8 posts** (details in the links below):
+Your blog will have **5 posts** (details in the links below):
 
-1. [Week 1](../01#blog): What are some of the current trends and approaches with technology that might assist you with your project?
-* [Week 2](../02#blog): tba
-* [Week 3](../03#blog): tba
-* [Week 4](../04#blog): tba
-* [Week 5](../05#blog): tba
-* [Week 6](../06#blog): tba
+1. [Week 1](../01#blog): Choose 3 of your *problems* to explore and critically explain the reasoning behind why you are highlighting those particular problems.  
+* [Week 2](../02#blog): Choose 3 of your *ideas* and elaborate on why they are viable.
+* [Week 3](../03#blog): Identify and critique 3 emerging technologies and their potential impact on society.
+* [Week 4](../04#blog): Evidence and critique your own approach to user testing.
+* [Week 5](../05#blog): Finish your first report and pitch-presentation | Critically reflect over what has gone well this term and what could have gone better if.
+* [Week 6](../06#blog): No blog
 
 Your blog posts can be published *anywhere* (we recommend [Medium](https://medium.com)), as long as they are publicly accessible and linked in your [hand-in package](#hand-in-package).
 
